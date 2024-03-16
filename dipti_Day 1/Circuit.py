@@ -43,8 +43,5 @@ df.columns
 
 # COMMAND ----------
 
-df2.withColumn("country",upper("country")).display()
-
-# COMMAND ----------
-
-
+# MAGIC %md
+# MAGIC #dipti_new_change
